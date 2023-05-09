@@ -1,0 +1,2 @@
+def funkcja():
+	print("amatorka"
